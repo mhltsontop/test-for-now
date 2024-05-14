@@ -14,7 +14,7 @@ Supports Windows, MacOS and Linux.
 
 <img src=".github/assets/logo.png" alt="img" align="right" width="560px" height="400px">
 
-### Features
+### Instructions
 
 - Change colors whole UI
 - Inject CSS for advanced customization
